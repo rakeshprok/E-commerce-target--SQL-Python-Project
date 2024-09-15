@@ -1,6 +1,6 @@
 # E-commerce-data-analysis-Project
 
-This project focuses on analyzing an eCommerce dataset (Target) using SQL and Python in Jupyter Notebook. The dataset used is sourced from Kaggle (Target Dataset). Through this analysis, I have solved various queries that range from basic to advanced, providing insights into customer behavior, sales performance, and other key metrics. This project demonstrates the application of both SQL and Python for data manipulation, querying, and analysis.
+This project focuses on analyzing an eCommerce dataset (Target) using SQL and Python in Jupyter Notebook. The dataset used is sourced from Kaggle.Through this analysis, I have solved various queries that range from basic to advanced, providing insights into customer behavior, sales performance, and other key metrics. This project demonstrates the application of both SQL and Python for data manipulation, querying, and analysis.
 
 # Project Overview:
 In this project, I explored and answered a series of queries to gain insights into the eCommerce business. The dataset consists of multiple files containing information on products, orders, customers, sellers, and payments. The analysis is divided into three main sections: Basic Queries, Intermediate Queries, and Advanced Queries.
